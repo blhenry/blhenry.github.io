@@ -21,8 +21,8 @@
          <item>
       <title>Amp Ep1</title>
       <itunes:title>Amp Ep1</itunes:title>
-      <description><![CDATA[<p>stuff here</p>]]></description>
-      <content:encoded><![CDATA[<p>stuff here</p>]]></content:encoded>
+      <description><![CDATA[<p>This a test for ampersan &amp;;</p>]]></description>
+      <content:encoded><![CDATA[<p>This a test for ampersan &amp;;</p>]]></content:encoded>
       <itunes:summary>This a test for ampersan &amp;;</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://dev-media.zencastr.com/image-files/60ca5532516feb00280c433c/99241f4a-4909-4d0c-985f-193013915083.jpeg"/>
