@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <channel>
+    <title>Amp</title>
+    <description><![CDATA[<p>format testing</p>]]></description>
+    <generator>Manual</generator>
+    <language>en</language>
+    <pubDate>Thu, 19 May 2022 00:48:55 GMT</pubDate>
+    <lastBuildDate>Thu, 19 May 2022 00:54:12 GMT</lastBuildDate>
+    <managingEditor/>
+    <itunes:author></itunes:author>
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email>brandon@zencastr.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary><![CDATA[test manual feed generation.]]></itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://dev-media.zencastr.com/image-files/60ca5532516feb00280c433c/4f333c21-8fb6-44cc-b8a6-c6918445ad97.jpg"/>
+    <itunes:category text="Arts"/>
+         <item>
+      <title>Amp Ep1</title>
+      <itunes:title>Amp Ep1</itunes:title>
+      <description><![CDATA[<p>stuff here</p>]]></description>
+      <content:encoded><![CDATA[<p>stuff here</p>]]></content:encoded>
+      <itunes:summary>This a test for ampersan &;</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://dev-media.zencastr.com/image-files/60ca5532516feb00280c433c/99241f4a-4909-4d0c-985f-193013915083.jpeg"/>
+      <guid isPermaLink="false">b36eee64-72d1-4c88-ad6c-45fa9883e601</guid>
+      <pubDate>Wed, 18 May 2022 00:53:47 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author></itunes:author>
+      <enclosure length="10791980" type="audio/wav" url="https://redirect.dev.gcp.zencastr.com/r/episode/62859509b219fd97ee7d50f7/audio-files/60ca5532516feb00280c433c/0d88d48b-7f3c-4e86-8749-f91b5f784207.wav"/>
+      <itunes:duration>112</itunes:duration>
+    </item>
+  </channel>
+</rss>
