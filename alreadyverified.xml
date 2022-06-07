@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <channel>
-    <title>Amp1</title>
+    <title>Already Verified</title>
     <description><![CDATA[<p>format testing &amp;;</p>]]></description>
     <generator>Manual</generator>
     <language>en</language>
@@ -19,8 +19,8 @@
     <itunes:image href="https://dev-media.zencastr.com/image-files/60ca5532516feb00280c433c/4f333c21-8fb6-44cc-b8a6-c6918445ad97.jpg"/>
     <itunes:category text="Arts"/>
          <item>
-      <title>Amp Ep1</title>
-      <itunes:title>Amp Ep1</itunes:title>
+      <title>EP1 Already Verified</title>
+      <itunes:title>EP1 Already Verified</itunes:title>
       <description><![CDATA[<p>This a test for ampersan &amp;;</p>]]></description>
       <content:encoded><![CDATA[<p>This a test for ampersan &amp;;</p>]]></content:encoded>
       <itunes:summary>This a test for ampersan &amp;;</itunes:summary>
