@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <channel>
+    <title>Manual Create</title>
+    <description><![CDATA[<p>This is testing a manual show creation</p>
+<p><br></p>
+<ol>
+  <li>Test Numer1</li>
+  <li>Test number2</li>
+  <li>Test number 3</li>
+</ol>
+<p><br></p>
+<ul>
+  <li>bullet1 <a href="https://www.zencastr.com">link</a></li>
+  <li><a href="https://www.google.com">link </a>2</li>
+</ul>
+<p><br></p>
+<p>Stuff here</p>]]></description>
+    <generator>Zencastr, Inc</generator>
+    <atom:link href="https://stage-feeds.zencastr.com/f/uBuVZA0H.rss" rel="self" type="application/rss+xml"/>
+    <link>https://www.zencastr.com</link>
+    <docs>https://www.zencastr.com</docs>
+    <language>en</language>
+    <pubDate>Tue, 14 Jun 2022 14:48:53 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Jun 2022 15:29:19 GMT</lastBuildDate>
+    <managingEditor>brandon@zencastr.com</managingEditor>
+    <itunes:author>Brandon Henry</itunes:author>
+    <itunes:owner>
+      <itunes:name>Brandon Henry</itunes:name>
+      <itunes:email>brandon@zencastr.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary><![CDATA[This is testing a manual show creation
+
+ 1. Test Numer1
+ 2. Test number2
+ 3. Test number 3
+
+
+ * bullet1 link [https://www.zencastr.com]
+ * link [https://www.google.com]2
+
+
+Stuff here]]></itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:image href="https://stage-media.zencastr.com/image-files/60ca5532516feb00280c433c/a321774b-5143-4d63-81d4-8b5e42d6b003.jpg"/>
+    <image>
+      <url>https://stage-media.zencastr.com/image-files/60ca5532516feb00280c433c/a321774b-5143-4d63-81d4-8b5e42d6b003.jpg</url>
+      <link>https://www.zencastr.com</link>
+      <title>Manual Create</title>
+    </image>
+    <itunes:new-feed-url>https://stage-feeds.zencastr.com/f/uBuVZA0H.rss</itunes:new-feed-url>
+    <copyright><![CDATA[Benri Inc.]]></copyright>
+    <itunes:keywords>cat,test,spork</itunes:keywords>
+    <itunes:category text="Arts"/>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <item>
+      <title>Ep3 Stage1</title>
+      <itunes:title>Ep2 Unique</itunes:title>
+      <description><![CDATA[<p>Stuff in here is awesome.</p>
+<p><br></p>]]></description>
+      <content:encoded><![CDATA[<p>Stuff in here is awesome.</p>
+<p><br></p>]]></content:encoded>
+      <itunes:summary>Stuff in here is awesome.
+</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://stage-media.zencastr.com/image-files/60ca5532516feb00280c433c/4345bbb5-2de7-4d68-92d0-638e1865ebc6.jpg"/>
+      <guid isPermaLink="false">24cb9c90-2b40-44cf-a875-9328f0a55ad9</guid>
+      <pubDate>Tue, 14 Jun 2022 15:29:18 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Brandon Henry</itunes:author>
+      <enclosure length="10791980" type="audio/wav" url="https://redirect.dev.gcp.zencastr.com/r/episode/62a8a94ea3952cb7013c8ed5/audio-files/60ca5532516feb00280c433c/e9a27806-6c79-4c6a-946c-4b02c7136e31.wav"/>
+      <itunes:duration>112</itunes:duration>
+      <itunes:keywords>tag,things,earth</itunes:keywords>
+    </item>
+  </channel>
+</rss>
