@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <channel>
+    <title>Format</title>
+    <description><![CDATA[<p>format testing</p>]]></description>
+    <generator>Manual</generator>
+    <language>en</language>
+    <pubDate>Thu, 19 May 2022 00:48:55 GMT</pubDate>
+    <lastBuildDate>Thu, 19 May 2022 00:54:12 GMT</lastBuildDate>
+    <managingEditor/>
+    <itunes:author></itunes:author>
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email>brandon@zencastr.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary><![CDATA[test manual feed generation.]]></itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://dev-media.zencastr.com/image-files/60ca5532516feb00280c433c/4f333c21-8fb6-44cc-b8a6-c6918445ad97.jpg"/>
+    <itunes:category text="Arts"/>
+     <item>
+      <title>Format Text Import</title>
+      <itunes:title>Format Text Import</itunes:title>
+      <description><![CDATA[<p><strong>Bold Text</strong></p>
+        <p><em>Itatilic Text</em>&nbsp;</p>
+        <p><a rel="noopener noreferrer" target="_blank" href="https://www.zencastr.com">Link</a></p>
+        <ol>
+          <li>Number One</li>
+          <li>Number Two</li>
+        </ol>
+        <ul>
+          <li>Bulltet One</li>
+          <li>Bullet Two</li>
+        </ul>]]></description>
+        <content:encoded><![CDATA[<p><strong>Bold Text</strong></p>
+        <p><em>Itatilic Text</em>&nbsp;</p>
+        <br>
+        <p><a rel="noopener noreferrer" target="_blank" href="https://www.zencastr.com">Link</a></p>
+        <br>
+        <ol>
+          <li>Number One</li>
+          <li>Number Two</li>
+        </ol>
+        <br>
+        <br>
+        <ul>
+          <li>Bulltet One</li>
+          <li>Bullet Two</li>
+        </ul>]]></content:encoded>
+      <itunes:summary>Bold Text
+
+        Itatilic TextÂ 
+
+        Link [https://www.zencastr.com]
+
+        1. Number One
+        2. Number Two
+
+
+
+        * Bulltet One
+        * Bullet Two</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://dev-media.zencastr.com/image-files/60ca5532516feb00280c433c/ab0261c5-d1f2-4fa9-b9b8-676bda4b3e55.jpg"/>
+      <guid isPermaLink="false">834b393c-9c4d-4d81-9a4a-a218dba2b1a3</guid>
+      <pubDate>Thu, 26 May 2022 14:31:14 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Benri</itunes:author>
+      <enclosure length="1804615" type="audio/mpeg" url="https://redirect.dev.gcp.zencastr.com/r/episode/628f8f322424d78b94616180/audio-files/60ca5532516feb00280c433c/103a9862-3d04-4502-95ed-c758c3dd0a58.mp3"/>
+      <itunes:duration>112</itunes:duration>
+    </item>
+  </channel>
+</rss>
