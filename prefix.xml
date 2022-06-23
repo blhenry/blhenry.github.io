@@ -1,0 +1,113 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>Digital Nomad Fake Prfix</title>
+<atom:link href="https://feed.podbean.com/zenessamicison/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://zenessamicison.podbean.com</link>
+<description>Building a tech company from scratch isn’t easy. But, Josh Nielsen, the founder of the popular podcast recording platform Zencastr, made it happen. And there were many life lessons learned along the way. This is the true story of how Zencastr was built.</description>
+<pubDate>Mon, 14 Feb 2022 23:43:26 -0800</pubDate>
+<generator>https://podbean.com/?v=5.5</generator>
+<language>en</language>
+<copyright>Copyright 2021 All rights reserved.</copyright>
+<category>Business:Entrepreneurship</category>
+<ttl>1440</ttl>
+<itunes:type>episodic</itunes:type>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:author>zenessamicison</itunes:author>
+<itunes:category text="Business">
+<itunes:category text="Entrepreneurship"/>
+</itunes:category>
+<itunes:owner>
+<itunes:name>zenessamicison</itunes:name>
+<itunes:email>zenessamicison@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:block>No</itunes:block>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/13305385/ZDN_znfasx.jpg"/>
+<image>
+<url>https://pbcdn1.podbean.com/imglogo/image-logo/13305385/ZDN_znfasx.jpg</url>
+<title>Digital Nomad</title>
+<link>https://zenessamicison.podbean.com</link>
+<width>144</width>
+<height>144</height>
+</image>
+<item>
+<title>03: Coding Competitions, Starting a Business and Podcasters</title>
+<itunes:title>03: Coding Competitions, Starting a Business and Podcasters</itunes:title>
+<link>https://zenessamicison.podbean.com/e/03-coding-competitions-starting-a-business-and-podcasters/</link>
+<comments>https://zenessamicison.podbean.com/e/03-coding-competitions-starting-a-business-and-podcasters/#comments</comments>
+<pubDate>Mon, 14 Feb 2022 23:43:26 -0800</pubDate>
+<guid isPermaLink="false">zenessamicison.podbean.com/9d4247d9-20ce-3adb-a951-5d6046b8ac9e</guid>
+<description>
+<![CDATA[ <p>Josh and some friends hack javascript by entering the Node Knockout competition. Together, they launch their first business, Soundkeep, a collaborative tool for musicians. And Josh learns how podcasters can benefit from his new project. </p> <p>Play the games Josh and his friends created at Node Knockout! Paste the link into your browser. 8 Bit Beats: http://167.71.145.90:7777 Disasteroids: http://167.71.145.90:8087</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>Josh and some friends hack javascript by entering the Node Knockout competition. Together, they launch their first business, Soundkeep, a collaborative tool for musicians. And Josh learns how podcasters can benefit from his new project. </p> <p>Play the games Josh and his friends created at Node Knockout! Paste the link into your browser. 8 Bit Beats: http://167.71.145.90:7777 Disasteroids: http://167.71.145.90:8087</p> ]]>
+</content:encoded>
+<enclosure url="https://stage-r.zen.ai/r/mcdn.podbean.com/mf/web/piwcuh/DN003_FINAL_MASTERED.mp3" length="28308147" type="audio/mpeg"/>
+<itunes:subtitle>Josh and some friends hack javascript by entering the Node Knockout competition. Together, they launch their first business, Soundkeep, a collaborative tool for musicians. And Josh learns how podcasters can benefit from his new project.  Play the games J...</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>Josh and some friends hack javascript by entering the Node Knockout competition. Together, they launch their first business, Soundkeep, a collaborative tool for musicians. And Josh learns how podcasters can benefit from his new project. </p> <p>Play the games Josh and his friends created at Node Knockout! Paste the link into your browser. 8 Bit Beats: http://167.71.145.90:7777 Disasteroids: http://167.71.145.90:8087</p> ]]>
+</itunes:summary>
+<itunes:author>zenessamicison</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>19:30</itunes:duration>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/13305385/ZDN_znfasx.jpg"/>
+</item>
+<item>
+<title>02: First Job, New Friends and Entrepreneurship</title>
+<itunes:title>02: First Job, New Friends and Entrepreneurship</itunes:title>
+<link>https://zenessamicison.podbean.com/e/02-first-job-new-friends-and-entrepreneurship/</link>
+<comments>https://zenessamicison.podbean.com/e/02-first-job-new-friends-and-entrepreneurship/#comments</comments>
+<pubDate>Mon, 14 Feb 2022 23:42:15 -0800</pubDate>
+<guid isPermaLink="false">zenessamicison.podbean.com/ede06d1c-3662-3872-a8ae-03197b2d5bc2</guid>
+<description>
+<![CDATA[ <p>Josh really puts himself on the line (literally) when he calls in to a podcast to win over his future boss. He moves to LA and meets Adrian Lopez who later becomes Zencastr's chief product officer. And then... Josh gets bitten by the start-up bug.</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>Josh really puts himself on the line (literally) when he calls in to a podcast to win over his future boss. He moves to LA and meets Adrian Lopez who later becomes Zencastr's chief product officer. And then... Josh gets bitten by the start-up bug.</p> ]]>
+</content:encoded>
+<enclosure url="https://stage-r.zen.ai/r/mcdn.podbean.com/mf/web/uunva5/DN002_FINAL_MASTERED.mp3" length="30148723" type="audio/mpeg"/>
+<itunes:subtitle>Josh really puts himself on the line (literally) when he calls in to a podcast to win over his future boss. He moves to LA and meets Adrian Lopez who later becomes Zencastr's chief product officer. And then... Josh gets bitten by the start-up bug.</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>Josh really puts himself on the line (literally) when he calls in to a podcast to win over his future boss. He moves to LA and meets Adrian Lopez who later becomes Zencastr's chief product officer. And then... Josh gets bitten by the start-up bug.</p> ]]>
+</itunes:summary>
+<itunes:author>zenessamicison</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>20:47</itunes:duration>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/13305385/ZDN_znfasx.jpg"/>
+</item>
+<item>
+<title>01: Growing Up, Faith and Getting Engaged</title>
+<itunes:title>01: Growing Up, Faith and Getting Engaged</itunes:title>
+<link>https://zenessamicison.podbean.com/e/01-growing-up-faith-and-getting-engaged/</link>
+<comments>https://zenessamicison.podbean.com/e/01-growing-up-faith-and-getting-engaged/#comments</comments>
+<pubDate>Mon, 14 Feb 2022 23:40:45 -0800</pubDate>
+<guid isPermaLink="false">zenessamicison.podbean.com/73e4c686-4006-3906-ab6c-d9d95b22825c</guid>
+<description>
+<![CDATA[ <p>The story of Zencastr starts with Josh Nielsen, a boy growing up in Denton, Texas. You'll learn more about his childhood, his personality and how he found the love of his life. All before he even had the idea to create the product now known as Zencastr.</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>The story of Zencastr starts with Josh Nielsen, a boy growing up in Denton, Texas. You'll learn more about his childhood, his personality and how he found the love of his life. All before he even had the idea to create the product now known as Zencastr.</p> ]]>
+</content:encoded>
+<enclosure url="https://stage-r.zen.ai/r/mcdn.podbean.com/mf/web/bueck3/DN001_FINAL_MASTERED.mp3" length="34633689" type="audio/mpeg"/>
+<itunes:subtitle>The story of Zencastr starts with Josh Nielsen, a boy growing up in Denton, Texas. You'll learn more about his childhood, his personality and how he found the love of his life. All before he even had the idea to create the product now known as Zencastr.</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>The story of Zencastr starts with Josh Nielsen, a boy growing up in Denton, Texas. You'll learn more about his childhood, his personality and how he found the love of his life. All before he even had the idea to create the product now known as Zencastr.</p> ]]>
+</itunes:summary>
+<itunes:author>zenessamicison</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>24:02</itunes:duration>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/13305385/ZDN_znfasx.jpg"/>
+</item>
+</channel>
+</rss>
