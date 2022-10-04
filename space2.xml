@@ -1,0 +1,61 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>The brandon1a’s Podcast</title>
+<atom:link href="https://feed.podbean.com/brandon1a/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://brandon1a.podbean.com</link>
+<description>New podcast weblog The brandon1a’s Podcast</description>
+<pubDate>Wed, 09 Mar 2022 17:52:58 -0500</pubDate>
+<generator>https://podbean.com/?v=5.5</generator>
+<language>en</language>
+<copyright>Copyright 2022 All rights reserved.</copyright>
+<category>Arts:Design</category>
+<ttl>1440</ttl>
+<itunes:type>episodic</itunes:type>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:author>brandon1a</itunes:author>
+<itunes:category text="Arts">
+<itunes:category text="Design"/>
+</itunes:category>
+<itunes:owner>
+<itunes:name>brandon1a</itunes:name>
+<itunes:email> brandon+spaces@zencastr.com </itunes:email>
+</itunes:owner>
+<itunes:block>No</itunes:block>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://r.zen.ai/r/djrpnl90t7dii.cloudfront.net/podbean-logo/podcast_standard_logo_v2.png"/>
+<image>
+<url>https://djrpnl90t7dii.cloudfront.net/podbean-logo/podcast_standard_logo_v2.png</url>
+<title>The brandon1a’s Podcast</title>
+<link>https://brandon1a.podbean.com</link>
+<width>144</width>
+<height>144</height>
+</image>
+<item>
+<title>Podbean</title>
+<itunes:title>Podbean</itunes:title>
+<link>https://brandon1a.podbean.com/e/podbean/</link>
+<comments>https://brandon1a.podbean.com/e/podbean/#comments</comments>
+<pubDate>Wed, 09 Mar 2022 17:52:58 -0500</pubDate>
+<guid isPermaLink="false">brandon1a.podbean.com/3efa21bf-2247-3bc5-9ee4-2fef5e9ca116</guid>
+<description>
+<![CDATA[ <p>dfkjdfh!@gdfhi4Y%P :,</p> <ol><li>gdfgdfngh,</li> <li>yhfghdfghfgh</li> </ol><p> </p> <p> </p> <ul><li>gsfgdfhfgh</li> </ul> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>dfkjdfh!@gdfhi4Y%P :,</p> <ol><li>gdfgdfngh,</li> <li>yhfghdfghfgh</li> </ol><p> </p> <p> </p> <ul><li>gsfgdfhfgh</li> </ul> ]]>
+</content:encoded>
+<enclosure url="https://r.zen.ai/r/mcdn.podbean.com/mf/web/2vytsd/hotfix-prod-test_recording-1_2021-06-16--t09-13-04pm--60c9ebbba5838c007e74e5f0--bzencastr.mp3" length="1804615" type="audio/mpeg"/>
+<itunes:subtitle>dfkjdfh!@gdfhi4Y%P :, gdfgdfngh, yhfghdfghfgh     gsfgdfhfgh </itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>dfkjdfh!@gdfhi4Y%P :,</p> <ol><li>gdfgdfngh,</li> <li>yhfghdfghfgh</li> </ol><p> </p> <p> </p> <ul><li>gsfgdfhfgh</li> </ul> ]]>
+</itunes:summary>
+<itunes:author>brandon1a</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:duration>01:52</itunes:duration>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:image href="https://djrpnl90t7dii.cloudfront.net/podbean-logo/podcast_standard_logo_v2.png"/>
+</item>
+</channel>
+</rss>
