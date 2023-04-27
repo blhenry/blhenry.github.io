@@ -1,113 +1,281 @@
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-<channel>
-<title>Digital Nomad Fake Zen Prefix</title>
-<atom:link href="https://feed.podbean.com/zenessamicison/feed.xml" rel="self" type="application/rss+xml"/>
-<link>https://zenessamicison.podbean.com</link>
-<description>Building a tech company from scratch isn’t easy. But, Josh Nielsen, the founder of the popular podcast recording platform Zencastr, made it happen. And there were many life lessons learned along the way. This is the true story of how Zencastr was built.</description>
-<pubDate>Mon, 14 Feb 2022 23:43:26 -0800</pubDate>
-<generator>https://podbean.com/?v=5.5</generator>
-<language>en</language>
-<copyright>Copyright 2021 All rights reserved.</copyright>
-<category>Business:Entrepreneurship</category>
-<ttl>1440</ttl>
-<itunes:type>episodic</itunes:type>
-<itunes:subtitle/>
-<itunes:summary/>
-<itunes:author>zenessamicison</itunes:author>
-<itunes:category text="Business">
-<itunes:category text="Entrepreneurship"/>
-</itunes:category>
-<itunes:owner>
-<itunes:name>zenessamicison</itunes:name>
-<itunes:email>zenessamicison@gmail.com </itunes:email>
-</itunes:owner>
-<itunes:block>No</itunes:block>
-<itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/13305385/ZDN_znfasx.jpg"/>
-<image>
-<url>https://pbcdn1.podbean.com/imglogo/image-logo/13305385/ZDN_znfasx.jpg</url>
-<title>Digital Nomad</title>
-<link>https://zenessamicison.podbean.com</link>
-<width>144</width>
-<height>144</height>
-</image>
-<item>
-<title>03: Coding Competitions, Starting a Business and Podcasters</title>
-<itunes:title>03: Coding Competitions, Starting a Business and Podcasters</itunes:title>
-<link>https://zenessamicison.podbean.com/e/03-coding-competitions-starting-a-business-and-podcasters/</link>
-<comments>https://zenessamicison.podbean.com/e/03-coding-competitions-starting-a-business-and-podcasters/#comments</comments>
-<pubDate>Mon, 14 Feb 2022 23:43:26 -0800</pubDate>
-<guid isPermaLink="false">zenessamicison.podbean.com/9d4247d9-20ce-3adb-a951-5d6046b8ac9e</guid>
-<description>
-<![CDATA[ <p>Josh and some friends hack javascript by entering the Node Knockout competition. Together, they launch their first business, Soundkeep, a collaborative tool for musicians. And Josh learns how podcasters can benefit from his new project. </p> <p>Play the games Josh and his friends created at Node Knockout! Paste the link into your browser. 8 Bit Beats: http://167.71.145.90:7777 Disasteroids: http://167.71.145.90:8087</p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>Josh and some friends hack javascript by entering the Node Knockout competition. Together, they launch their first business, Soundkeep, a collaborative tool for musicians. And Josh learns how podcasters can benefit from his new project. </p> <p>Play the games Josh and his friends created at Node Knockout! Paste the link into your browser. 8 Bit Beats: http://167.71.145.90:7777 Disasteroids: http://167.71.145.90:8087</p> ]]>
-</content:encoded>
-<enclosure url="https://dev-r.zen.ai/r/mcdn.podbean.com/mf/web/piwcuh/DN003_FINAL_MASTERED.mp3" length="28308147" type="audio/mpeg"/>
-<itunes:subtitle>Josh and some friends hack javascript by entering the Node Knockout competition. Together, they launch their first business, Soundkeep, a collaborative tool for musicians. And Josh learns how podcasters can benefit from his new project.  Play the games J...</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ <p>Josh and some friends hack javascript by entering the Node Knockout competition. Together, they launch their first business, Soundkeep, a collaborative tool for musicians. And Josh learns how podcasters can benefit from his new project. </p> <p>Play the games Josh and his friends created at Node Knockout! Paste the link into your browser. 8 Bit Beats: http://167.71.145.90:7777 Disasteroids: http://167.71.145.90:8087</p> ]]>
-</itunes:summary>
-<itunes:author>zenessamicison</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<itunes:block>No</itunes:block>
-<itunes:duration>19:30</itunes:duration>
-<itunes:episode>3</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
-<itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/13305385/ZDN_znfasx.jpg"/>
-</item>
-<item>
-<title>02: First Job, New Friends and Entrepreneurship</title>
-<itunes:title>02: First Job, New Friends and Entrepreneurship</itunes:title>
-<link>https://zenessamicison.podbean.com/e/02-first-job-new-friends-and-entrepreneurship/</link>
-<comments>https://zenessamicison.podbean.com/e/02-first-job-new-friends-and-entrepreneurship/#comments</comments>
-<pubDate>Mon, 14 Feb 2022 23:42:15 -0800</pubDate>
-<guid isPermaLink="false">zenessamicison.podbean.com/ede06d1c-3662-3872-a8ae-03197b2d5bc2</guid>
-<description>
-<![CDATA[ <p>Josh really puts himself on the line (literally) when he calls in to a podcast to win over his future boss. He moves to LA and meets Adrian Lopez who later becomes Zencastr's chief product officer. And then... Josh gets bitten by the start-up bug.</p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>Josh really puts himself on the line (literally) when he calls in to a podcast to win over his future boss. He moves to LA and meets Adrian Lopez who later becomes Zencastr's chief product officer. And then... Josh gets bitten by the start-up bug.</p> ]]>
-</content:encoded>
-<enclosure url="https://dev-r.zencastr.com/r/mcdn.podbean.com/mf/web/uunva5/DN002_FINAL_MASTERED.mp3" length="30148723" type="audio/mpeg"/>
-<itunes:subtitle>Josh really puts himself on the line (literally) when he calls in to a podcast to win over his future boss. He moves to LA and meets Adrian Lopez who later becomes Zencastr's chief product officer. And then... Josh gets bitten by the start-up bug.</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ <p>Josh really puts himself on the line (literally) when he calls in to a podcast to win over his future boss. He moves to LA and meets Adrian Lopez who later becomes Zencastr's chief product officer. And then... Josh gets bitten by the start-up bug.</p> ]]>
-</itunes:summary>
-<itunes:author>zenessamicison</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<itunes:block>No</itunes:block>
-<itunes:duration>20:47</itunes:duration>
-<itunes:episode>2</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
-<itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/13305385/ZDN_znfasx.jpg"/>
-</item>
-<item>
-<title>01: Growing Up, Faith and Getting Engaged</title>
-<itunes:title>01: Growing Up, Faith and Getting Engaged</itunes:title>
-<link>https://zenessamicison.podbean.com/e/01-growing-up-faith-and-getting-engaged/</link>
-<comments>https://zenessamicison.podbean.com/e/01-growing-up-faith-and-getting-engaged/#comments</comments>
-<pubDate>Mon, 14 Feb 2022 23:40:45 -0800</pubDate>
-<guid isPermaLink="false">zenessamicison.podbean.com/73e4c686-4006-3906-ab6c-d9d95b22825c</guid>
-<description>
-<![CDATA[ <p>The story of Zencastr starts with Josh Nielsen, a boy growing up in Denton, Texas. You'll learn more about his childhood, his personality and how he found the love of his life. All before he even had the idea to create the product now known as Zencastr.</p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>The story of Zencastr starts with Josh Nielsen, a boy growing up in Denton, Texas. You'll learn more about his childhood, his personality and how he found the love of his life. All before he even had the idea to create the product now known as Zencastr.</p> ]]>
-</content:encoded>
-<enclosure url="https://stage-r.zen.ai/r/mcdn.podbean.com/mf/web/bueck3/DN001_FINAL_MASTERED.mp3" length="34633689" type="audio/mpeg"/>
-<itunes:subtitle>The story of Zencastr starts with Josh Nielsen, a boy growing up in Denton, Texas. You'll learn more about his childhood, his personality and how he found the love of his life. All before he even had the idea to create the product now known as Zencastr.</itunes:subtitle>
-<itunes:summary>
-<![CDATA[ <p>The story of Zencastr starts with Josh Nielsen, a boy growing up in Denton, Texas. You'll learn more about his childhood, his personality and how he found the love of his life. All before he even had the idea to create the product now known as Zencastr.</p> ]]>
-</itunes:summary>
-<itunes:author>zenessamicison</itunes:author>
-<itunes:explicit>no</itunes:explicit>
-<itunes:block>No</itunes:block>
-<itunes:duration>24:02</itunes:duration>
-<itunes:episode>1</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
-<itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/13305385/ZDN_znfasx.jpg"/>
-</item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://feeds.megaphone.fm/LEW1514366617" rel="self" type="application/rss+xml"/>
+    <title>WHOA That's Good Podcast</title>
+    <link>https://cms.megaphone.fm/channel/LEW1514366617</link>
+    <language>en</language>
+    <copyright></copyright>
+    <description>The "WHOA That's Good" podcast welcomes you into meaningful conversations with authors, athletes, musicians, speakers, and stars of film and television in search of the answer to just one question: What is the best advice you have ever been given? Hosted by Sadie Robertson, best-selling author, founder of Live Original, and star of A&amp;E's "Duck Dynasty" &amp; season 19 of ABC's "Dancing with the Stars," this fun and lighthearted podcast is sure to leave you saying, "WHOA That's Good!"</description>
+    <image>
+      <url>https://megaphone.imgix.net/podcasts/591d2ce4-55ef-11eb-bcc3-93ff0aa0f0da/image/SR-WTG-Cover-2023-1-2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <title>WHOA That's Good Podcast</title>
+      <link>https://cms.megaphone.fm/channel/LEW1514366617</link>
+    </image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Sadie Robertson Huff</itunes:author>
+    <itunes:summary>The "WHOA That's Good" podcast welcomes you into meaningful conversations with authors, athletes, musicians, speakers, and stars of film and television in search of the answer to just one question: What is the best advice you have ever been given? Hosted by Sadie Robertson, best-selling author, founder of Live Original, and star of A&amp;E's "Duck Dynasty" &amp; season 19 of ABC's "Dancing with the Stars," this fun and lighthearted podcast is sure to leave you saying, "WHOA That's Good!"</itunes:summary>
+    <content:encoded>
+      <![CDATA[<p>The "WHOA That's Good" podcast welcomes you into meaningful conversations with authors, athletes, musicians, speakers, and stars of film and television in search of the answer to just one question: What is the best advice you have ever been given? Hosted by Sadie Robertson, best-selling author, founder of Live Original, and star of A&amp;E's "Duck Dynasty" &amp; season 19 of ABC's "Dancing with the Stars," this fun and lighthearted podcast is sure to leave you saying, "WHOA That's Good!"</p>]]>
+    </content:encoded>
+    <itunes:owner>
+      <itunes:name>Live Original</itunes:name>
+      <itunes:email>business@livelyentertainment.net</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/591d2ce4-55ef-11eb-bcc3-93ff0aa0f0da/image/SR-WTG-Cover-2023-1-2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:category text="Business">
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture">
+    </itunes:category>
+    <itunes:new-feed-url>https://feeds.megaphone.fm/LEW1514366617</itunes:new-feed-url>
+    <item>
+      <title>How to Set ATTAINABLE Goals &amp; Make a Difference | Sadie Robertson Huff &amp; Housefires' Nate Moore</title>
+      <description>Nate Moore is a writer and artist with Housefires, plus he's a worship leader, a songwriter, and a pastor and today he's talking with Sadie about making music and making moments with people that you love, why doing a FEW things well is one of the best pieces of advice he's ever received, and how to turn "have-to" into "get-to" in your faith walk. Nate admits his early years as a Christian were a "check-the-box" version: read your Bible - check, go to church - check, pray - check  — but an experience in college changed all that and his outlook transformed to a "get-to" attitude in his walk with God. Sadie and Nate share different ways they experienced the call of God on their lives and reiterate that when God's calling you, it doesn't have to make sense to anyone else! Nate remembers the early days in Atlanta where Housefires began and the moment he says was "the most special moment in worship he's ever seen" when "Good Good Father" was first spoken — and he has Sadie saying, "That's SO good" many times when he explains the origin of his first tattoo and how a two-degree shift can change EVERYTHING for you in your life! 
+
+https://www.trymiracle.com/whoa — Get 40% off + 3 FREE towels with code WHOA at checkout!
+https://athleticgreens.com/whoa — Get a FREE 1-year supply of Vitamin D &amp; 5 FREE travel packs with your first purchase!
+https://www.auraframes.com — Get up to $30 off on Aura’s best-selling frames when you use code WHOA at checkout!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 26 Apr 2023 05:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:author>Sadie Robertson Huff</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>Nate Moore is a writer and artist with Housefires, plus he's a worship leader, a songwriter, and a pastor and today he's talking with Sadie about making music and making moments with people that you love, why doing a FEW things well is one of the best pieces of advice he's ever received, and how to turn "have-to" into "get-to" in your faith walk. Nate admits his early years as a Christian were a "check-the-box" version: read your Bible - check, go to church - check, pray - check  — but an experience in college changed all that and his outlook transformed to a "get-to" attitude in his walk with God. Sadie and Nate share different ways they experienced the call of God on their lives and reiterate that when God's calling you, it doesn't have to make sense to anyone else! Nate remembers the early days in Atlanta where Housefires began and the moment he says was "the most special moment in worship he's ever seen" when "Good Good Father" was first spoken — and he has Sadie saying, "That's SO good" many times when he explains the origin of his first tattoo and how a two-degree shift can change EVERYTHING for you in your life! 
+
+https://www.trymiracle.com/whoa — Get 40% off + 3 FREE towels with code WHOA at checkout!
+https://athleticgreens.com/whoa — Get a FREE 1-year supply of Vitamin D &amp; 5 FREE travel packs with your first purchase!
+https://www.auraframes.com — Get up to $30 off on Aura’s best-selling frames when you use code WHOA at checkout!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Nate Moore is a writer and artist with Housefires, plus he's a worship leader, a songwriter, and a pastor and today he's talking with Sadie about making music and making moments with people that you love, why doing a FEW things well is one of the best pieces of advice he's ever received, and how to turn "have-to" into "get-to" in your faith walk. Nate admits his early years as a Christian were a "check-the-box" version: read your Bible - check, go to church - check, pray - check  — but an experience in college changed all that and his outlook transformed to a "get-to" attitude in his walk with God. Sadie and Nate share different ways they experienced the call of God on their lives and reiterate that when God's calling you, it doesn't have to make sense to anyone else! Nate remembers the early days in Atlanta where Housefires began and the moment he says was "the most special moment in worship he's ever seen" when "Good Good Father" was first spoken — and he has Sadie saying, "That's SO good" many times when he explains the origin of his first tattoo and how a two-degree shift can change EVERYTHING for you in your life! </p><p><br></p><p><a href="https://www.trymiracle.com/whoa">https://www.trymiracle.com/whoa</a> — Get 40% off + 3 FREE towels with code WHOA at checkout!</p><p><a href="https://athleticgreens.com/whoa">https://athleticgreens.com/whoa</a> — Get a FREE 1-year supply of Vitamin D &amp; 5 FREE travel packs with your first purchase!</p><p><a href="https://www.auraframes.com">https://www.auraframes.com</a> — Get up to $30 off on Aura’s best-selling frames when you use code WHOA at checkout!</p><p>-</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3771</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[7a11bb64-e3ae-11ed-8ce5-1bf8c735f20d]]></guid>
+      <enclosure url="https://pdst.fm/e/mgln.ai/e/617/pdrl.fm/221778/traffic.megaphone.fm/LEW8493846578.mp3?updated=1682459434" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How to Maintain Your Faith Even When Your Hope Is Shaken | Sadie Rob Huff | Danny &amp; Leyicet Gokey    </title>
+      <description>Y'all, singer-songwriter Danny Gokey and his wife, Leyicet Gokey, are a DELIGHT to talk with! Not only do these two have an incredible ministry together, but they have four adorable children, love each other so well, and have Chuck Norris to thank for getting them together! Danny tells Sadie about the loss of his first wife and how staying in the Word and clinging to God's truth is what helped him during that heartbreaking tragedy. Leyicet encourages us to always share how we met God and started following Him — you never know who will be impacted by your story, regardless of how "unimportant" you think it is! And remember, believers have what SO many people want: a friend like Jesus! Plus, a reminder to take active control of your thoughts — because how you FEEL is a direct result of how you THINK. If you're feeling stuck and unsure of your next step, as Danny tells us, don't be a parked car — start moving, and God will direct you! Wherever you are: Do your best, obey God, &amp; it WILL be OK! 
+
+https://www.reliefband.com — Get 20% off plus FREE shipping with code WHOA!
+Get a 4-week trial, free postage, and a digital scale at https://www.stamps.com/whoa
+https://liberty.edu/Sadie — Get your application fee WAIVED when you start your future with Liberty University today!
+https://athleticgreens.com/whoa — Get a FREE 1-year supply of Vitamin D &amp; 5 FREE travel packs with your first purchase!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 19 Apr 2023 05:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:author>Sadie Robertson Huff</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>Y'all, singer-songwriter Danny Gokey and his wife, Leyicet Gokey, are a DELIGHT to talk with! Not only do these two have an incredible ministry together, but they have four adorable children, love each other so well, and have Chuck Norris to thank for getting them together! Danny tells Sadie about the loss of his first wife and how staying in the Word and clinging to God's truth is what helped him during that heartbreaking tragedy. Leyicet encourages us to always share how we met God and started following Him — you never know who will be impacted by your story, regardless of how "unimportant" you think it is! And remember, believers have what SO many people want: a friend like Jesus! Plus, a reminder to take active control of your thoughts — because how you FEEL is a direct result of how you THINK. If you're feeling stuck and unsure of your next step, as Danny tells us, don't be a parked car — start moving, and God will direct you! Wherever you are: Do your best, obey God, &amp; it WILL be OK! 
+
+https://www.reliefband.com — Get 20% off plus FREE shipping with code WHOA!
+Get a 4-week trial, free postage, and a digital scale at https://www.stamps.com/whoa
+https://liberty.edu/Sadie — Get your application fee WAIVED when you start your future with Liberty University today!
+https://athleticgreens.com/whoa — Get a FREE 1-year supply of Vitamin D &amp; 5 FREE travel packs with your first purchase!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Y'all, singer-songwriter Danny Gokey and his wife, Leyicet Gokey, are a DELIGHT to talk with! Not only do these two have an incredible ministry together, but they have four adorable children, love each other so well, and have Chuck Norris to thank for getting them together! Danny tells Sadie about the loss of his first wife and how staying in the Word and clinging to God's truth is what helped him during that heartbreaking tragedy. Leyicet encourages us to always share how we met God and started following Him — you never know who will be impacted by your story, regardless of how "unimportant" you think it is! And remember, believers have what SO many people want: a friend like Jesus! Plus, a reminder to take active control of your thoughts — because how you FEEL is a direct result of how you THINK. If you're feeling stuck and unsure of your next step, as Danny tells us, don't be a parked car — start moving, and God will direct you! Wherever you are: Do your best, obey God, &amp; it WILL be OK! </p><p><br></p><p><a href="https://www.reliefband.com">https://www.reliefband.com</a> — Get 20% off plus FREE shipping with code WHOA!</p><p>Get a 4-week trial, free postage, and a digital scale at <a href="https://www.stamps.com/whoa.">https://www.stamps.com/whoa</a></p><p><a href="https://liberty.edu/Sadie">https://liberty.edu/Sadie</a> — Get your application fee WAIVED when you start your future with Liberty University today!</p><p><a href="https://athleticgreens.com/whoa">https://athleticgreens.com/whoa</a> — Get a FREE 1-year supply of Vitamin D &amp; 5 FREE travel packs with your first purchase!</p><p>-</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3512</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[dae06d98-dc4f-11ed-9229-cb4c8c372d38]]></guid>
+      <enclosure url="https://pdst.fm/e/mgln.ai/e/617/pdrl.fm/221778/traffic.megaphone.fm/LEW3788843364.mp3?updated=1681933460" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>You Don't Have to Be Scared of the Thing That Sounds Impossible | Sadie Robertson Huff </title>
+      <description>Courtney Leatherwood took a big chance and a big leap of faith when she said "yes" to Sadie asking her to start working with her years ago — but that decision wasn't an easy one. What started as doodling and designing in her spare time has morphed into her role as LO's Brand &amp; Creative Marketing Manager! Sadie and Courtney look back on those moments that will encourage others to take a big leap, and they encourage you not to be so quick to say "no" if something sounds too "far out." First, ask, "Am I willing to try?" Plus, how do we know when the voice of God speaks to us after we've sought His guidance? Saying "yes" even when you don't feel qualified might be the most freeing thing you could do! Sadie and Court remember some big "failures" in the early days of LO, but is it really a failure if they were growing, learning, and finding new ways to reach people? Sadie drops in a Lionel Richie quote that stuck with her: "If you win, you win; if you lose, you learn!" And don't miss the story about beignets! 
+
+https://www.mykitsch.com/whoa — Get 30% off your entire order RIGHT NOW with code WHOA!
+https://give.cru.org/whoa or text WHOA to 71326 — Get a free copy of Sadie's book "Live on Purpose" with your gift!
+https://nativedeo.com/whoa — Get 20% OFF your first order with code WHOA!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 17 Apr 2023 05:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:author>Sadie Robertson Huff</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>Courtney Leatherwood took a big chance and a big leap of faith when she said "yes" to Sadie asking her to start working with her years ago — but that decision wasn't an easy one. What started as doodling and designing in her spare time has morphed into her role as LO's Brand &amp; Creative Marketing Manager! Sadie and Courtney look back on those moments that will encourage others to take a big leap, and they encourage you not to be so quick to say "no" if something sounds too "far out." First, ask, "Am I willing to try?" Plus, how do we know when the voice of God speaks to us after we've sought His guidance? Saying "yes" even when you don't feel qualified might be the most freeing thing you could do! Sadie and Court remember some big "failures" in the early days of LO, but is it really a failure if they were growing, learning, and finding new ways to reach people? Sadie drops in a Lionel Richie quote that stuck with her: "If you win, you win; if you lose, you learn!" And don't miss the story about beignets! 
+
+https://www.mykitsch.com/whoa — Get 30% off your entire order RIGHT NOW with code WHOA!
+https://give.cru.org/whoa or text WHOA to 71326 — Get a free copy of Sadie's book "Live on Purpose" with your gift!
+https://nativedeo.com/whoa — Get 20% OFF your first order with code WHOA!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Courtney Leatherwood took a big chance and a big leap of faith when she said "yes" to Sadie asking her to start working with her years ago — but that decision wasn't an easy one. What started as doodling and designing in her spare time has morphed into her role as LO's Brand &amp; Creative Marketing Manager! Sadie and Courtney look back on those moments that will encourage others to take a big leap, and they encourage you not to be so quick to say "no" if something sounds too "far out." First, ask, "Am I willing to try?" Plus, how do we know when the voice of God speaks to us after we've sought His guidance? Saying "yes" even when you don't feel qualified might be the most freeing thing you could do! Sadie and Court remember some big "failures" in the early days of LO, but is it really a failure if they were growing, learning, and finding new ways to reach people? Sadie drops in a Lionel Richie quote that stuck with her: "If you win, you win; if you lose, you learn!" And don't miss the story about beignets! </p><p><br></p><p><a href="https://www.mykitsch.com/whoa">https://www.mykitsch.com/whoa</a> — Get 30% off your entire order RIGHT NOW with code WHOA!</p><p><a href="https://give.cru.org/whoa">https://give.cru.org/whoa</a> or text WHOA to 71326 — Get a free copy of Sadie's book "Live on Purpose" with your gift!</p><p><a href="https://nativedeo.com/whoa">https://nativedeo.com/whoa</a> — Get 20% OFF your first order with code WHOA!</p><p>-</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2905</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[56c88308-db08-11ed-8cc7-5bbee9d8285b]]></guid>
+      <enclosure url="https://pdst.fm/e/mgln.ai/e/617/pdrl.fm/221778/traffic.megaphone.fm/LEW5753627374.mp3?updated=1681507040" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How to Know When It's Safe to TRUST Somebody | Sadie Robertson Huff &amp; Dr. Henry Cloud </title>
+      <description>"Is it safe to trust this person?" is a question we ALL need to ask of the people we bring into our lives. Sadie is talking with bestselling author and clinical expert, Dr. Henry Cloud about all things to do with trust: earning it, fixing it when it's broken, how to give it and even when to withhold it. Sadie shares a very recent example of why trust is such an important factor when bringing new people into our worlds and why trust and boundaries are SO important to her — she's been hurt by these things in the past! Dr. Cloud encourages us in how we can truly restore trust from past relationships and not bring that into new relationships. Plus, why it's important to give yourself space to evaluate if a person really IS trustworthy. Sadie and Dr. Cloud also speak about the wisdom of Scripture and how it's backed up and aligned with so much of neuroscience, which isn't surprising at all and more proof that our Creator knows everything about us and how we're wired. And don't miss Sadie's story about why she recoiled when Christian tried calling her "Pumpkin" one time. 
+
+https://helixsleep.com/sadie — Get up to 20% OFF AND 2 free pillows!
+https://athleticgreens.com/whoa — Get a FREE 1-year supply of Vitamin D &amp; 5 FREE travel packs with your first purchase!
+https://www.trymiracle.com/whoa — Get 40% off + 3 FREE towels with code WHOA at checkout!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 12 Apr 2023 05:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:author>Sadie Robertson Huff</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>"Is it safe to trust this person?" is a question we ALL need to ask of the people we bring into our lives. Sadie is talking with bestselling author and clinical expert, Dr. Henry Cloud about all things to do with trust: earning it, fixing it when it's broken, how to give it and even when to withhold it. Sadie shares a very recent example of why trust is such an important factor when bringing new people into our worlds and why trust and boundaries are SO important to her — she's been hurt by these things in the past! Dr. Cloud encourages us in how we can truly restore trust from past relationships and not bring that into new relationships. Plus, why it's important to give yourself space to evaluate if a person really IS trustworthy. Sadie and Dr. Cloud also speak about the wisdom of Scripture and how it's backed up and aligned with so much of neuroscience, which isn't surprising at all and more proof that our Creator knows everything about us and how we're wired. And don't miss Sadie's story about why she recoiled when Christian tried calling her "Pumpkin" one time. 
+
+https://helixsleep.com/sadie — Get up to 20% OFF AND 2 free pillows!
+https://athleticgreens.com/whoa — Get a FREE 1-year supply of Vitamin D &amp; 5 FREE travel packs with your first purchase!
+https://www.trymiracle.com/whoa — Get 40% off + 3 FREE towels with code WHOA at checkout!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>"Is it safe to trust this person?" is a question we ALL need to ask of the people we bring into our lives. Sadie is talking with bestselling author and clinical expert, Dr. Henry Cloud about all things to do with trust: earning it, fixing it when it's broken, how to give it and even when to withhold it. Sadie shares a very recent example of why trust is such an important factor when bringing new people into our worlds and why trust and boundaries are SO important to her — she's been hurt by these things in the past! Dr. Cloud encourages us in how we can truly restore trust from past relationships and not bring that into new relationships. Plus, why it's important to give yourself space to evaluate if a person really IS trustworthy. Sadie and Dr. Cloud also speak about the wisdom of Scripture and how it's backed up and aligned with so much of neuroscience, which isn't surprising at all and more proof that our Creator knows everything about us and how we're wired. And don't miss Sadie's story about why she recoiled when Christian tried calling her "Pumpkin" one time. </p><p><br></p><p><a href="https://helixsleep.com/sadie">https://helixsleep.com/sadie</a> — Get up to 20% OFF AND 2 free pillows!</p><p><a href="https://athleticgreens.com/whoa">https://athleticgreens.com/whoa</a> — Get a FREE 1-year supply of Vitamin D &amp; 5 FREE travel packs with your first purchase!</p><p><a href="https://www.trymiracle.com/whoa">https://www.trymiracle.com/whoa</a> — Get 40% off + 3 FREE towels with code WHOA at checkout!</p><p>-</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3649</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[4fb101fc-d8e8-11ed-b0b9-5348bed4c554]]></guid>
+      <enclosure url="https://pdst.fm/e/mgln.ai/e/617/pdrl.fm/221778/traffic.megaphone.fm/LEW6245199535.mp3?updated=1681276487" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>God Loves Us BEFORE We 'Do' Anything! | Sadie Robertson Huff &amp; Alicia Britt Chole</title>
+      <description>Sadie has been waiting for this conversation since she was 18 years old and was given a copy of Dr. Alicia Britt Chole's "Anonymous" — a book which Sadie says is the BEST book on social media. Alicia is a wife, mother, author, and former atheist who had an "unbelievable encounter with God" when she attended her first church service with a friend and says her beginning in Christ came from Him pursuing and finding her. Alicia encourages any singles out there to look for a man much like her own husband who has the fruit of the Spirit in his life, plus why we should value the "unseen" people in our lives just as much as others — don't mistake "unseen" for "unimportant!" Sadie and Alicia discuss what it means to "practice the presence of God" and how the truth that God is near to us is worth repeating to ourselves and others throughout our day. God IS near — He's not behind a curtain, He's not paused somewhere waiting for a certain thing, and He loves us before we "do" anything for Him! Plus, how differently would we live out our faith if we regularly confronted the weight of our sin and how we WILLFULLY sin against the Lord? And why we ALL need a mentor — but if you can find someone you can regularly meet with, that's an incredible blessing, so go after it! 
+
+https://nativedeo.com/whoa — Get 20% OFF your first order with code WHOA!
+https://give.cru.org/whoa or text WHOA to 71326 — Get a free copy of Sadie's book "Live on Purpose" with your gift!
+Get a 4-week trial, free postage, and a digital scale at https://www.stamps.com/whoa
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 05 Apr 2023 05:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:author>Sadie Robertson Huff</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>Sadie has been waiting for this conversation since she was 18 years old and was given a copy of Dr. Alicia Britt Chole's "Anonymous" — a book which Sadie says is the BEST book on social media. Alicia is a wife, mother, author, and former atheist who had an "unbelievable encounter with God" when she attended her first church service with a friend and says her beginning in Christ came from Him pursuing and finding her. Alicia encourages any singles out there to look for a man much like her own husband who has the fruit of the Spirit in his life, plus why we should value the "unseen" people in our lives just as much as others — don't mistake "unseen" for "unimportant!" Sadie and Alicia discuss what it means to "practice the presence of God" and how the truth that God is near to us is worth repeating to ourselves and others throughout our day. God IS near — He's not behind a curtain, He's not paused somewhere waiting for a certain thing, and He loves us before we "do" anything for Him! Plus, how differently would we live out our faith if we regularly confronted the weight of our sin and how we WILLFULLY sin against the Lord? And why we ALL need a mentor — but if you can find someone you can regularly meet with, that's an incredible blessing, so go after it! 
+
+https://nativedeo.com/whoa — Get 20% OFF your first order with code WHOA!
+https://give.cru.org/whoa or text WHOA to 71326 — Get a free copy of Sadie's book "Live on Purpose" with your gift!
+Get a 4-week trial, free postage, and a digital scale at https://www.stamps.com/whoa
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Sadie has been waiting for this conversation since she was 18 years old and was given a copy of Dr. Alicia Britt Chole's "Anonymous" — a book which Sadie says is the BEST book on social media. Alicia is a wife, mother, author, and former atheist who had an "unbelievable encounter with God" when she attended her first church service with a friend and says her beginning in Christ came from Him pursuing and finding her. Alicia encourages any singles out there to look for a man much like her own husband who has the fruit of the Spirit in his life, plus why we should value the "unseen" people in our lives just as much as others — don't mistake "unseen" for "unimportant!" Sadie and Alicia discuss what it means to "practice the presence of God" and how the truth that God is near to us is worth repeating to ourselves and others throughout our day. God IS near — He's not behind a curtain, He's not paused somewhere waiting for a certain thing, and He loves us before we "do" anything for Him! Plus, how differently would we live out our faith if we regularly confronted the weight of our sin and how we WILLFULLY sin against the Lord? And why we ALL need a mentor — but if you can find someone you can regularly meet with, that's an incredible blessing, so go after it! </p><p><br></p><p><a href="https://nativedeo.com/whoa">https://nativedeo.com/whoa</a> — Get 20% OFF your first order with code WHOA!</p><p><a href="https://give.cru.org/whoa">https://give.cru.org/whoa</a> or text WHOA to 71326 — Get a free copy of Sadie's book "Live on Purpose" with your gift!</p><p>Get a 4-week trial, free postage, and a digital scale at <a href="https://www.stamps.com/whoa.">https://www.stamps.com/whoa</a></p><p>-</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3866</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[a0adfaac-d356-11ed-891e-e36b876b14e4]]></guid>
+      <enclosure url="https://stage-r.zencastr.com/r/pdst.fm/e/mgln.ai/e/617/pdrl.fm/221778/traffic.megaphone.fm/LEW4303944037.mp3?updated=1680661496" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How to Love Friends Well While They're in a Toxic Relationship | Sadie Rob Huff &amp; Bella Rob Mayo</title>
+      <description>Bella is BACK for a fun chat with Sadie answering YOUR questions about helping friends in toxic relationships, how to love well but not micro-manage, when honesty is best and most loving, and why not expecting all your happiness to be provided by others is so important. Plus, Bella talks about being married at a young age, how she knew Jacob was the one for her right away, and when she turned her life around and began her relationship with the Lord. And do you feel like your testimony is a bit "boring?" Sadie and Bella encourage us that there really is no such thing! 
+
+https://www.homechef.com/whoa — Get 75% off your first box!
+https://athleticgreens.com/whoa — Get a FREE 1-year supply of Vitamin D &amp; 5 FREE travel packs with your first purchase!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 03 Apr 2023 05:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:author>Sadie Robertson Huff</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>Bella is BACK for a fun chat with Sadie answering YOUR questions about helping friends in toxic relationships, how to love well but not micro-manage, when honesty is best and most loving, and why not expecting all your happiness to be provided by others is so important. Plus, Bella talks about being married at a young age, how she knew Jacob was the one for her right away, and when she turned her life around and began her relationship with the Lord. And do you feel like your testimony is a bit "boring?" Sadie and Bella encourage us that there really is no such thing! 
+
+https://www.homechef.com/whoa — Get 75% off your first box!
+https://athleticgreens.com/whoa — Get a FREE 1-year supply of Vitamin D &amp; 5 FREE travel packs with your first purchase!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Bella is BACK for a fun chat with Sadie answering YOUR questions about helping friends in toxic relationships, how to love well but not micro-manage, when honesty is best and most loving, and why not expecting all your happiness to be provided by others is so important. Plus, Bella talks about being married at a young age, how she knew Jacob was the one for her right away, and when she turned her life around and began her relationship with the Lord. And do you feel like your testimony is a bit "boring?" Sadie and Bella encourage us that there really is no such thing! </p><p><br></p><p><a href="https://www.homechef.com/whoa">https://www.homechef.com/whoa</a> — Get 75% off your first box!</p><p><a href="https://athleticgreens.com/whoa">https://athleticgreens.com/whoa</a> — Get a FREE 1-year supply of Vitamin D &amp; 5 FREE travel packs with your first purchase!</p><p>-</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2868</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[5d6d6984-cff6-11ed-9b9c-db8cbeca09db]]></guid>
+      <enclosure url="https://pdst.fm/e/mgln.ai/e/617/stage-r.zencastr.com/r/pdrl.fm/221778/traffic.megaphone.fm/LEW8291287092.mp3?updated=1680296903" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>NAME DROP! Our Baby's Name Is ... | Sadie Robertson Huff &amp; Christian Huff</title>
+      <description>It's here, y'all! Sadie and Christian are announcing the name they've chosen for their second baby girl! And you will not BELIEVE the incredible story confirming God's incredible love and care in the choosing of their daughter's name. Sadie and Christian talk about the upcoming birth and if there is a plan for the delivery room. After the traumatic birth of Honey and how scary that was in the first few minutes after she'd been born, how are they feeling about this upcoming delivery? Plus, they honestly share how they've both learned so much in trusting God and truly partnering WITH God on what the future holds. And isn't that the best place to be? 
+
+https://www.trymiracle.com/whoa — Get 40% off + 3 FREE towels with code WHOA at checkout!
+
+https://give.cru.org/whoa or text WHOA to 71326 — Get a free copy of Sadie's book "Live on Purpose" with your gift!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 29 Mar 2023 05:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:author>Sadie Robertson Huff</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>It's here, y'all! Sadie and Christian are announcing the name they've chosen for their second baby girl! And you will not BELIEVE the incredible story confirming God's incredible love and care in the choosing of their daughter's name. Sadie and Christian talk about the upcoming birth and if there is a plan for the delivery room. After the traumatic birth of Honey and how scary that was in the first few minutes after she'd been born, how are they feeling about this upcoming delivery? Plus, they honestly share how they've both learned so much in trusting God and truly partnering WITH God on what the future holds. And isn't that the best place to be? 
+
+https://www.trymiracle.com/whoa — Get 40% off + 3 FREE towels with code WHOA at checkout!
+
+https://give.cru.org/whoa or text WHOA to 71326 — Get a free copy of Sadie's book "Live on Purpose" with your gift!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>It's here, y'all! Sadie and Christian are announcing the name they've chosen for their second baby girl! And you will not BELIEVE the incredible story confirming God's incredible love and care in the choosing of their daughter's name. Sadie and Christian talk about the upcoming birth and if there is a plan for the delivery room. After the traumatic birth of Honey and how scary that was in the first few minutes after she'd been born, how are they feeling about this upcoming delivery? Plus, they honestly share how they've both learned so much in trusting God and truly partnering WITH God on what the future holds. And isn't that the best place to be? </p><p><br></p><p><a href="https://www.trymiracle.com/whoa">https://www.trymiracle.com/whoa</a> — Get 40% off + 3 FREE towels with code WHOA at checkout!</p><p><br></p><p><a href="https://give.cru.org/whoa">https://give.cru.org/whoa</a> or text WHOA to 71326 — Get a free copy of Sadie's book "Live on Purpose" with your gift!</p><p>-</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2702</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[e5777450-cd9e-11ed-a844-87e904918dbb]]></guid>
+      <enclosure url="https://stage-r.zen.ai/r/pdst.fm/e/mgln.ai/e/617/pdrl.fm/221778/traffic.megaphone.fm/LEW6910201241.mp3?updated=1680146846" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How to Stay Above Your Fears &amp; Remember God's Got You! | Sadie Robertson Huff &amp; Katie Davis Majors </title>
+      <description>What if we could keep a God's-eye view of our lives — that no matter how scary or painful a situation might be, coming up ahead of us is a break and some peace? Sadie's guest, Katie Davis Majors, was reminded of this truth in a particularly harrowing experience she had while swimming in the Nile River. Katie was 18 when she first traveled to Uganda for a mission trip, and she ended up staying for many years, starting a charity, meeting her husband, and adopting 13 girls! Katie and her family — including 2 boys now! — just recently moved back to the United States, a decision that wasn't easy and one that Katie didn't initially understand. Katie encourages anyone wondering what they're going to do with their life that God is way more concerned with who you'll BE than what you'll DO. Start focusing on who God's called you to be! And don't discount the experiences you're having right now, wherever you are in your life — you have no idea what God is preparing you for! Sadie and Katie talk about the importance of sisterhood and how, whether they're biological, adopted, or even best friends, the blessings of sisters are an amazing picture of God's love for us. Katie's book "Safe All Along" is available for preorder now. 
+
+https://www.reliefband.com — Get 20% off plus FREE shipping with code WHOA!
+
+https://liberty.edu/Sadie — Get your application fee WAIVED when you start your future with Liberty University today!
+
+https://www.homechef.com/whoa — Get 75% off your first box!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 22 Mar 2023 05:00:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:author>Sadie Robertson Huff</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>What if we could keep a God's-eye view of our lives — that no matter how scary or painful a situation might be, coming up ahead of us is a break and some peace? Sadie's guest, Katie Davis Majors, was reminded of this truth in a particularly harrowing experience she had while swimming in the Nile River. Katie was 18 when she first traveled to Uganda for a mission trip, and she ended up staying for many years, starting a charity, meeting her husband, and adopting 13 girls! Katie and her family — including 2 boys now! — just recently moved back to the United States, a decision that wasn't easy and one that Katie didn't initially understand. Katie encourages anyone wondering what they're going to do with their life that God is way more concerned with who you'll BE than what you'll DO. Start focusing on who God's called you to be! And don't discount the experiences you're having right now, wherever you are in your life — you have no idea what God is preparing you for! Sadie and Katie talk about the importance of sisterhood and how, whether they're biological, adopted, or even best friends, the blessings of sisters are an amazing picture of God's love for us. Katie's book "Safe All Along" is available for preorder now. 
+
+https://www.reliefband.com — Get 20% off plus FREE shipping with code WHOA!
+
+https://liberty.edu/Sadie — Get your application fee WAIVED when you start your future with Liberty University today!
+
+https://www.homechef.com/whoa — Get 75% off your first box!
+-
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>What if we could keep a God's-eye view of our lives — that no matter how scary or painful a situation might be, coming up ahead of us is a break and some peace? Sadie's guest, Katie Davis Majors, was reminded of this truth in a particularly harrowing experience she had while swimming in the Nile River. Katie was 18 when she first traveled to Uganda for a mission trip, and she ended up staying for many years, starting a charity, meeting her husband, and adopting 13 girls! Katie and her family — including 2 boys now! — just recently moved back to the United States, a decision that wasn't easy and one that Katie didn't initially understand. Katie encourages anyone wondering what they're going to do with their life that God is way more concerned with who you'll BE than what you'll DO. Start focusing on who God's called you to be! And don't discount the experiences you're having right now, wherever you are in your life — you have no idea what God is preparing you for! Sadie and Katie talk about the importance of sisterhood and how, whether they're biological, adopted, or even best friends, the blessings of sisters are an amazing picture of God's love for us. Katie's book "Safe All Along" is available for preorder now. </p><p><br></p><p><a href="https://www.reliefband.com">https://www.reliefband.com</a> — Get 20% off plus FREE shipping with code WHOA!</p><p><br></p><p><a href="https://liberty.edu/Sadie">https://liberty.edu/Sadie</a> — Get your application fee WAIVED when you start your future with Liberty University today!</p><p><br></p><p><a href="https://www.homechef.com/whoa">https://www.homechef.com/whoa</a> — Get 75% off your first box!</p><p>-</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3394</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[bb4241e8-c82a-11ed-a7f1-e7a031bc15e7]]></guid>
+      <enclosure url="https://pdst.fm/e/mgln.ai/e/617/stage-r.zen.ai/r/pdrl.fm/221778/traffic.megaphone.fm/LEW6259219857.mp3?updated=1680146874" length="0" type="audio/mpeg"/>
+    </item>
 </channel>
 </rss>
