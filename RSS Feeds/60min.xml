@@ -48,5 +48,20 @@
       <enclosure length="10791980" type="audio/wav" url="https://redirect.zencastr.com/r/episode/64b04a8037810232e7816466/audio-files/60c9ebbba5838c007e74e5f0/bbe992ce-5a4b-4f2e-b38e-1685d22976c4.mp3"/>
       <itunes:duration>112</itunes:duration>
     </item>
+     <item>
+      <title>EP1 Expire</title>
+      <itunes:title>EP 2</itunes:title>
+      <description><![CDATA[<p>This a test for ampersan &amp;;</p>]]></description>
+      <content:encoded><![CDATA[<p>This a test for ampersan &amp;;</p>]]></content:encoded>
+      <itunes:summary>This a test for ampersan &amp;;</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://dev-media.zencastr.com/image-files/60ca5532516feb00280c433c/99241f4a-4909-4d0c-985f-193013915083.jpeg"/>
+      <guid isPermaLink="false">b36eee64-72d1-4c88-ad6c-45fa9883e601</guid>
+      <pubDate>Wed, 18 May 2022 00:53:47 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author></itunes:author>
+      <enclosure length="10791980" type="audio/wav" url="https://r.zencastr.com/r/redirect.zencastr.com/r/episode/64b04a8037810232e7816466/audio-files/60c9ebbba5838c007e74e5f0/bbe992ce-5a4b-4f2e-b38e-1685d22976c4.mp3"/>
+      <itunes:duration>112</itunes:duration>
+    </item>
   </channel>
 </rss>
