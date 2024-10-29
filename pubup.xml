@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <channel>
+    <title>Pub Up</title>
+    <description><![CDATA[<p>Benri's Show</p>]]></description>
+    <link>https://dev.eh.zencastr.com/1Benri</link>
+    <docs>https://dev.eh.zencastr.com/1Benri</docs>
+    <language>en</language>
+    <pubDate>Fri, 26 Apr 2024 19:52:05 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Oct 2024 16:34:46 GMT</lastBuildDate>
+    <itunes:author>Benri</itunes:author>
+    <itunes:summary><![CDATA[Benri's Show]]></itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://dev-media.zencastr.com/image-files/60ca5532516feb00280c433c/3f9466c4-b41c-4ddf-a33c-1b22ab8f1914.jpg"/>
+    <image>
+      <url>https://dev-media.zencastr.com/image-files/60ca5532516feb00280c433c/3f9466c4-b41c-4ddf-a33c-1b22ab8f1914.jpg</url>
+      <link>https://dev.eh.zencastr.com/1Benri</link>
+      <title>Pub Up</title>
+    </image>
+    <itunes:new-feed-url>https://dev-feeds.zencastr.com/f/6U2XG4tm.rss</itunes:new-feed-url>
+    <itunes:owner>
+      <itunes:name>Benri</itunes:name>
+      <itunes:email>brandon+pubup@zencastr.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Society &amp; Culture"/>
+    <item>
+      <title>Landdddddscape Test</title>
+      <link>https://dev.eh.zencastr.com/z/TsVVNgu2</link>
+      <itunes:title>Landscape Test</itunes:title>
+      <itunes:summary>Landscape Test Landscape Test Landscape Test Landscape Test </itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Thu, 03 Oct 2024 17:57:37 GMT</pubDate>
+      <itunes:author>Benri</itunes:author>
+      <enclosure length="260982367" type="video/mp4" url="https://dev-redirect.zencastr.com/r/episode/66fedb114f385488eb856ac9/size/260982367/video-files/60ca5532516feb00280c433c/b65beba5-4691-4293-9962-ef6f8a1ed15c.mp4"/>
+      <description><![CDATA[<p>Landscape Test Landscape Test Landscape Test Landscape Test&nbsp;</p>]]></description>
+      <content:encoded><![CDATA[<p>Landscape Test Landscape Test Landscape Test Landscape Test&nbsp;</p>]]></content:encoded>
+      <guid isPermaLink="false">98060a8b-7b36-405c-b83b-b9ec56545270</guid>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>628</itunes:duration>
+    </item>
+    <item>
+      <title>Plain Hssairytoofles</title>
+      <link>https://dev.eh.zencastr.com/z/K2ndG-71</link>
+      <itunes:title>Plain Hairytoofles</itunes:title>
+      <itunes:summary>Plain Hairytoofles</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Tue, 16 Jul 2024 21:15:55 GMT</pubDate>
+      <itunes:author>Benri</itunes:author>
+      <enclosure length="32511582" type="video/mp4" url="https://dev-redirect.zencastr.com/r/episode/6696e30ba99f12229cae3661/size/32511582/video-files/60ca5532516feb00280c433c/b0458da0-6ca8-4316-ab64-104318642e0e.mp4"/>
+      <description><![CDATA[<p>Plain Hairytoofles</p>]]></description>
+      <content:encoded><![CDATA[<p>Plain Hairytoofles</p>]]></content:encoded>
+      <guid isPermaLink="false">33dfb041-06b0-4442-b48f-6dc501912b8d</guid>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://dev-media.zencastr.com/image-files/60ca5532516feb00280c433c/3f9466c4-b41c-4ddf-a33c-1b22ab8f1914.jpg"/>
+      <itunes:duration>120</itunes:duration>
+    </item>
+    <item>
+      <title>dasfdsfsdf</title>
+      <link>https://dev.eh.zencastr.com/z/uDXUU4xk</link>
+      <itunes:title>fdsfsdf</itunes:title>
+      <itunes:summary>dfsdfsdf</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Wed, 29 May 2024 21:24:38 GMT</pubDate>
+      <itunes:author>Benri</itunes:author>
+      <enclosure length="2134373" type="video/mp4" url="https://dev-redirect.zencastr.com/r/episode/66579d163bb1e75ca197d42e/size/2134373/video-files/60ca5532516feb00280c433c/0cee70ce-2a0b-406e-9fee-6fe2352b4512.mp4"/>
+      <description><![CDATA[<p>dfsdfsdf</p>]]></description>
+      <content:encoded><![CDATA[<p>dfsdfsdf</p>]]></content:encoded>
+      <guid isPermaLink="false">e22f44fe-850d-4c3e-9fe0-4b94e7cf83f0</guid>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>112</itunes:duration>
+    </item>
+    <item>
+      <title>gfdgdfg</title>
+      <link>https://dev.eh.zencastr.com/z/pnEp2l2O</link>
+      <itunes:title>gfdgdfg</itunes:title>
+      <itunes:summary>dfgdfgdf</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Wed, 22 May 2024 15:33:05 GMT</pubDate>
+      <itunes:author>Benri</itunes:author>
+      <enclosure length="59220532" type="video/mp4" url="https://dev-redirect.zencastr.com/r/episode/664e103140f7a5339ec64494/size/59220532/video-files/60ca5532516feb00280c433c/5d2defd3-39db-4798-9ebf-7d9340f1814c.mp4"/>
+      <description><![CDATA[<p>dfgdfgdf</p>]]></description>
+      <content:encoded><![CDATA[<p>dfgdfgdf</p>]]></content:encoded>
+      <guid isPermaLink="false">5baa779c-9f5d-4f81-898c-0fa2df39beb1</guid>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>204</itunes:duration>
+    </item>
+  </channel>
+</rss>
